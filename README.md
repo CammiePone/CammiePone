@@ -6,6 +6,13 @@
 - I'm currently learning Unreal Engine 5 for the above-mentioned game.
 - I enjoy the creative and mechanical design processes.
 
+### Projects:
+- [Arcanus][arcanus]
+- [Hookshot][hookshot]
+- [Icarus][icarus]
+- [Cam's Wearable Backpacks][backpacks]
+- [VehicleFix][vehiclefix]
+
 ### Connect With Me:
 
 [<img align="left" alt="Cammie | Twitter" width="44px" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" />][twitter]
@@ -24,6 +31,10 @@
 <br />
 <br />
 
-[arcanus]: https://github.com/CammiePone/Arcanus
 [twitter]: https://twitter.com/Camellias__
 [discord]: https://discord.gg/f5dFYWX
+[arcanus]: https://github.com/CammiePone/Arcanus
+[hookshot]: https://github.com/CammiePone/Hookshot
+[icarus]: https://github.com/CammiePone/Icarus
+[backpacks]: https://github.com/CammiePone/Cam-s-Wearable-Backpacks
+[vehiclefix]: https://github.com/CammiePone/VehicleFix
