@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Cammie 👋
 
-<!--
-**CammiePone/CammiePone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Modder and Indie Game Developer/Designer
+- My current modding project is [Arcanus][arcanus].
+- My current indie game is a Virtual Reality Role-Playing Game (VRRPG).
+- I'm currently learning Unreal Engine 5 for the above-mentioned game.
+- I enjoy the creative and mechanical design processes.
 
-Here are some ideas to get you started:
+### Connect With Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Cammie | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Cammie | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+<br />
+
+### Languages and Tools:
+- Java
+- C#
+- GDScript
+- Godot
+- IntelliJ
+- Visual Studio Code
+
+<br />
+<br />
+
+[arcanus]: https://github.com/CammiePone/Arcanus
+[twitter]: https://twitter.com/Camellias__
+[discord]: https://discord.gg/f5dFYWX
