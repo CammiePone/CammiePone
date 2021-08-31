@@ -10,6 +10,7 @@
 - [Arcanus][arcanus]
 - [Hookshot][hookshot]
 - [Icarus][icarus]
+- [FireworkFix][fireworkfix]
 - [Cam's Wearable Backpacks][backpacks]
 - [VehicleFix][vehiclefix]
 
@@ -36,5 +37,6 @@
 [arcanus]: https://github.com/CammiePone/Arcanus
 [hookshot]: https://github.com/CammiePone/Hookshot
 [icarus]: https://github.com/CammiePone/Icarus
+[fireworkfix]: https://github.com/CammiePone/FireworkFix
 [backpacks]: https://github.com/CammiePone/Cam-s-Wearable-Backpacks
 [vehiclefix]: https://github.com/CammiePone/VehicleFix
