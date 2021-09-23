@@ -10,7 +10,7 @@
 - [Arcanus][arcanus]
 - [Hookshot][hookshot]
 - [Icarus][icarus]
-- [FireworkFix][fireworkfix]
+- [Firework Frenzy][fireworkfix]
 - [Cam's Wearable Backpacks][backpacks]
 - [VehicleFix][vehiclefix]
 
