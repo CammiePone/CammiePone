@@ -8,10 +8,11 @@
 
 ### Projects:
 - [Arcanus][arcanus]
-- [Hookshot][hookshot]
 - [Icarus][icarus]
-- [Firework Frenzy][fireworkfix]
-- [Cam's Wearable Backpacks][backpacks]
+- [Cammie's Combat Tweaks][combattweaks]
+- [Firework Frenzy][fireworkfrenzy]
+- [Cammie's Wearable Backpacks][backpacks]
+- [Hookshot][hookshot]
 - [VehicleFix][vehiclefix]
 
 ### Connect With Me:
@@ -35,8 +36,9 @@
 [twitter]: https://twitter.com/Camellias__
 [discord]: https://discord.gg/f5dFYWX
 [arcanus]: https://github.com/CammiePone/Arcanus
-[hookshot]: https://github.com/CammiePone/Hookshot
 [icarus]: https://github.com/CammiePone/Icarus
-[fireworkfix]: https://github.com/CammiePone/FireworkFix
-[backpacks]: https://github.com/CammiePone/Cam-s-Wearable-Backpacks
+[combattweaks]: https://github.com/CammiePone/Cammies-Combat-Tweaks
+[fireworkfrenzy]: https://github.com/CammiePone/FireworkFix
+[backpacks]: https://github.com/CammiePone/Cammies-Wearable-Backpacks
+[hookshot]: https://github.com/CammiePone/Hookshot
 [vehiclefix]: https://github.com/CammiePone/VehicleFix
