@@ -1,9 +1,7 @@
 ### Hi there, I'm Cammie 👋
 
 ## I'm a Modder and Indie Game Developer/Designer
-- My current modding project is [Arcanus][arcanus].
-- My current indie game is a Virtual Reality Role-Playing Game (VRRPG).
-- I'm currently learning Unreal Engine 5 for the above-mentioned game.
+- My current modding project is Esoterica, which is unreleased and private for now.
 - I enjoy the creative and mechanical design processes.
 
 ### Projects:
