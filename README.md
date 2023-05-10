@@ -13,7 +13,6 @@
 - [Cammie's Wearable Backpacks][backpacks]
 - [Hookshot][hookshot]
 - [VehicleFix][vehiclefix]
-- [My Website][website]
 
 ### Connect With Me:
 [<img align="left" alt="Cammie | Twitter" width="44px" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png" />][twitter]
@@ -42,4 +41,3 @@
 [backpacks]: https://github.com/CammiePone/Cammies-Wearable-Backpacks
 [hookshot]: https://github.com/CammiePone/Hookshot
 [vehiclefix]: https://github.com/CammiePone/VehicleFix
-[website]: https://github.com/CammiePone/cammiepone.github.io
